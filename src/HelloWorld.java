@@ -7,4 +7,7 @@
  */
 
 public class HelloWorld {
+    public void test(){
+        System.out.println("测试git上传！");
+    }
 }
