@@ -9,5 +9,6 @@
 public class HelloWorld {
     public void test(){
         System.out.println("测试git上传！");
+        System.out.println("刚才测试失败了，重新试试！");
     }
 }
