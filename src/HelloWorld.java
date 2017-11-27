@@ -10,5 +10,6 @@ public class HelloWorld {
     public void test(){
         System.out.println("测试git上的项目下载到idea中，又上传修改后的文件");
         System.out.println("刚才测试失败了，重新试试！");
+        System.out.println("刚才测试了撤销提交测试 --hard，将本地的内容也删除了");
     }
 }
